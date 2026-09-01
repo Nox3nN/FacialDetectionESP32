@@ -1,6 +1,6 @@
 # FacialDetectionESP32
 
-/*
+
  * Detectie fata pe prototipul ROI Prokyber AI-On-The-Edge-Cam (ESP32-S3 N16R8 + OV2640).
  * Edge Impulse FOMO object detection.
  *
@@ -18,4 +18,4 @@
  *       Paste la linia pozei in browser.
  *   0 = normal live inference.
  * 
- */
+
